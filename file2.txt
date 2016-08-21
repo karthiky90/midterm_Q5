@@ -1,0 +1,10 @@
+word1 word2 word3
+<<<<<<< HEAD
+line2
+line3
+=======
+conflict1
+conflict2
+>>>>>>> feature1
+
+
